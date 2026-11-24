@@ -67,8 +67,8 @@ button {
 }
 
 .glow-intro-red {
-    left: 21.337%;
-    top: 38.289%;
+    left: 20.47%;
+    top: 56.6%;
     width: 12.092%;
     aspect-ratio: 1 / 1;
     border-radius: 50%;
@@ -108,9 +108,9 @@ button {
 
 .mascot {
     position: absolute;
-    left: 15.796%;
-    top: 12.126%;
-    width: 29.293%;
+    left: 7.47%;
+    top: 35.54%;
+    width: 38.09%;
     height: auto;
     display: block;
     transition: left var(--move-time) var(--move-ease), top var(--move-time) var(--move-ease), width var(--move-time) var(--move-ease);
@@ -410,9 +410,9 @@ button {
 /* ---------- Intro state: is-intro (hover on the mascot) ---------- */
 
 .stage.is-intro .mascot {
-    left: 6.042%;
-    top: 9.2%;
-    width: 48.801%;
+    left: -5.227%;
+    top: 14.03%;
+    width: 63.49%;
 }
 
 .stage.is-intro .glow-intro-red {
@@ -453,9 +453,9 @@ button {
 /* ---------- Video state: is-video ---------- */
 
 .stage.is-video .mascot {
-    left: 9.991%;
-    top: 6.463%;
-    width: 31.476%;
+    left: -1.059%;
+    top: 17.148%;
+    width: 49.12%;
     transition: left var(--title-time) var(--zoom-ease), top var(--title-time) var(--zoom-ease), width var(--title-time) var(--zoom-ease);
 }
 

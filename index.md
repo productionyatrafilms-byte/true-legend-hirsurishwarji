@@ -213,3 +213,8 @@ Vertical % are measured from y=0 over 1080.
 6. **Hindi/Gujarati title image size** — Figma only gives the English box; the others are centred on it at the same scale.
 7. **Home link** — Figma has no target; points to `./index.html`.
 8. **Frame border** — the 10px `#b85a5a` rounded border belongs to the Figma frame itself; it is reproduced as an overlay.
+
+## Mascot positions (Hir Surishwarji frames 182:1325 intro, 182:1344 video)
+- intro: left `-5.227%`, top `14.03%`, width `63.49%`
+- video: left `-1.059%`, top `17.148%`, width `49.12%` (bottom sits on the frame bottom)
+- rest: no Figma frame; derived (0.6x intro width, same centre, bottom on the frame bottom): left `7.47%`, top `35.54%`, width `38.09%`; red glow moved under it (left `20.47%`, top `56.6%`)
